@@ -1,6 +1,6 @@
 console.log('khaled')
-var username=5
-var ali=8
+var username = 5
+var ali = 8
 console.log(username+ali)
-console.log('moh')
+console.log('ahmad')
 
