@@ -8,9 +8,10 @@ alert('HI ' + userName)
 var x = 20 
 var y = 40 
 var z = prompt('pick a number')
-if(z>(x+y)){alert('you won');}else if(z<(x+y)){alert('you lost');} else{alert(nothing);}
+if(z>(x+y)){alert('you won');}else if(z<(x+y)){alert('you lost');} else{alert('nothing');}
 
-
+var yourWeight = prompt('what is your weight')
+if(yourWeight>80){document.write('reduce your weight');}else if(yourWeight<80 && yourWeight>60){alert('stay healthy');}else{alert('under weight');}
 
 
 
