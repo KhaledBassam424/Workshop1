@@ -1,0 +1,29 @@
+*{margin:50 10 10 10;
+}
+header{background-color: rgba(39, 223, 204, 0.5)
+}
+h1{text-align:center;
+}
+body header ul{list-style: none;}
+
+body header ul li{  
+    display: inline;
+    margin: 40px;
+    
+}
+body header ul li a{
+    
+        text-decoration: none;
+}
+body ol li{color: rgb(35, 163, 223);
+
+}
+
+
+    
+}
+
+body ul {  
+    display: inline;
+    margin: 40px;
+}

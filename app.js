@@ -1,5 +1,5 @@
 //console.log('khaled')
-
+function greetings(){
 var userInput = prompt('what is your name') ;
 alert('HI ' + userInput);
 
@@ -31,4 +31,7 @@ else if(userOrder =='carb'){image='<img src="https://tse2.mm.bing.net/th?id=OIP.
 document.write(image);}
 
 }
+}
+
+greetings();
 
